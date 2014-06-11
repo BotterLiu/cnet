@@ -1,7 +1,7 @@
 /******************************************************
-*  CopyRight: liubo (botter.liu@163.com) Version 0.l
+*  CopyRight: botter (botter.liu@163.com) Version 0.l
 *   FileName: net.h
-*     Author: liubo  2012-2-5 
+*     Author: botter  2012-2-5 
 *Description:
 *******************************************************/
 

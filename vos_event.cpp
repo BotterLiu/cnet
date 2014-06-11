@@ -1,6 +1,6 @@
 /******************************************************
  *   FileName: vos_event.cpp
- *     Author: liubo  2012-7-6 
+ *     Author: botter  2012-7-6 
  *Description:
  *******************************************************/
 #include "vos_event.h"

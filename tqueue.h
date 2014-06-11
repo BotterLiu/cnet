@@ -1,11 +1,3 @@
-/*
- * tqueue.h
- *
- *  Created on: 2012-11-24
- *      Author: humingqing
- *  通用队列操作锁处理
- */
-
 #ifndef __TQUEUE_H__
 #define __TQUEUE_H__
 

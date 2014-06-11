@@ -1,7 +1,6 @@
 /******************************************************
- *  CopyRight: 北京中交兴路科技有限公司(2012-2015)
  *   FileName: fileclient.cpp
- *     Author: liubo  2012-9-17 
+ *     Author: botter  2012-9-17 
  *Description:
  *******************************************************/
 #include "newfileclient.h"

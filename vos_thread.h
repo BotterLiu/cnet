@@ -1,6 +1,6 @@
 /******************************************************
  *   FileName: vos_thread.h
- *     Author: liubo  2012-7-5 
+ *     Author: botter  2012-7-5 
  *Description:
  *Description: (1)给类提供线程服务
  *Description: (2)封装windows的线程函数，提供方法。
