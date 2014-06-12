@@ -1,7 +1,7 @@
 /******************************************************
  *  CopyRight: Opensource
  *   FileName: sock_event.h
- *     Author: botter
+ *     Author: Triones
  *Description: 根据libevent修改实现
  *******************************************************/
 

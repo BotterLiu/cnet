@@ -1,7 +1,7 @@
 /******************************************************
-*  CopyRight: botter (botter.liu@163.com) Version 0.l
+*  CopyRight: Triones (Triones.liu@163.com) Version 0.l
 *   FileName: net.c
-*     Author: botter  2012-2-5
+*     Author: Triones  2012-2-5
 *Description:
 *******************************************************/
 #include "sockutil.h"

@@ -1,6 +1,6 @@
 /******************************************************
 *   FileName: eventbase.cpp
-*     Author: botter  2012-11-13
+*     Author: Triones  2012-11-13
 *Description: 主要负责的功能：
 *Description: （1）sock_event的加入和删除。
 *******************************************************/

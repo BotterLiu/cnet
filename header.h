@@ -1,19 +1,11 @@
 /******************************************************
 *   FileName: header.h
-*     Author: botter  2012-9-18 
+*     Author: Triones  2012-9-18 
 *Description:
 *******************************************************/
 
 #ifndef HEADER_H_
 #define HEADER_H_
-
-/*
- * interheader.h
- *
- *  Created on: 2012-4-26
- *      Author: think
- *  这里主要想实现通用的协议拆分所以就定义了通用协议头，其中type为协议大类主要区分不同格式的协议的
- */
 
 #ifndef __INTERHEADER_H__
 #define __INTERHEADER_H__

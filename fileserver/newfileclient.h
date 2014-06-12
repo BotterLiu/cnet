@@ -1,6 +1,6 @@
 /******************************************************
  *   FileName: fileclient.h
- *     Author: botter  2012-9-17 
+ *     Author: Triones  2012-9-17 
  *Description: 轻量级客户端，不要依赖额外的库。
  (1) 网络传输：
  数据发送和读取采用尝试发送，如果发送失败， socket缓冲区满时在启用select/epoll的 IO复用检测。

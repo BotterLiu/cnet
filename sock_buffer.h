@@ -1,6 +1,6 @@
 /******************************************************
  *   FileName: sock_buffer.h
- *     Author: botter  2012-5-23 
+ *     Author: Triones  2012-5-23 
  *Description:
  *Description: sock读的缓冲区，缓冲区有个最大值，没次读到socket为空或是buffer满时停止读数据。
  *Description: 对于收到的数据进行处理提供给上层处理，处理完毕后。继续读取数据。
@@ -48,11 +48,6 @@ public:
     	delete []_buffer;
     	_read_offset = _write_offset = _size = 0;
     }
-
-//    void set_split( SplitPack *split_fun)
-//    {
-//    	_split_fun = split_fun;
-//    }
 
     void set_max_size(int max_size = 4096)
     {

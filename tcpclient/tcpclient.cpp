@@ -1,6 +1,6 @@
 /******************************************************
 *   FileName: tcpclient.cpp
-*     Author: botter  2013-8-31 
+*     Author: Triones  2013-8-31 
 *Description:
 *******************************************************/
 #include "netop.h"

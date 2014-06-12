@@ -1,6 +1,6 @@
 /******************************************************
  *   FileName: runinfo.cpp
- *     Author: botter  2013-9-17
+ *     Author: Triones  2013-9-17
  *Description:
  *******************************************************/
 #include "runinfo.h"

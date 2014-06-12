@@ -1,6 +1,6 @@
 /******************************************************
  *   FileName: fileserver.cpp
- *     Author: botter  2012-10-15
+ *     Author: Triones  2012-10-15
  *Description:
  *******************************************************/
 #include "fileserver.h"

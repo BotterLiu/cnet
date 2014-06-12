@@ -1,6 +1,6 @@
 /******************************************************
  *   FileName: sock_event.cpp
- *     Author: botter  2012-8-22
+ *     Author: Triones  2012-8-22
  *Description:
  *******************************************************/
 #include "socket.h"

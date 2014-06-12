@@ -1,6 +1,6 @@
 /******************************************************
 *   FileName: epoll_test.cpp
-*     Author: botter  2013-12-10 
+*     Author: Triones  2013-12-10 
 *Description:
 *******************************************************/
 #include "sockevent.h"

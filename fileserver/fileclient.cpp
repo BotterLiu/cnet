@@ -1,6 +1,6 @@
 /******************************************************
  *   FileName: fileclient.cpp
- *     Author: botter  2012-9-17 
+ *     Author: Triones  2012-9-17 
  *Description:
  *******************************************************/
 #include "fileclient.h"
